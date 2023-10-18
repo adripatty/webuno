@@ -18,6 +18,11 @@ main {
     margin: 50px;
     padding: 30px;color: #53128f;
 }
+
+.greeting {
+  font-size: 20px;
+  font-family: cursive;
+}
 header { border: #53128f;
     background-color: rgb(186, 188, 218);
     font-size: larger;
